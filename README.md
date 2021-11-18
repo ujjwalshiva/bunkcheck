@@ -1,6 +1,6 @@
-# EMI Calculator App
+# Bunk Check App
 
-This is a simple EMI Calculator App built using simple HTML, CSS and JavaScript. The code is readable and built with simple logic. Click on the website link and access the tool. The UI of the app is simple, easy to use and also responsive on a wide range of devices. Please comment if there are any errors while executing the program. 
+This is a simple Bunk Check App built using simple HTML, CSS and JavaScript.The code is readable and built with simple logic. Click on the website link and access the tool. The UI of the app is simple, easy to use and also responsive on a wide range of devices. Please comment if there are any errors while executing the program. 
 
 
 ## Screenshots
@@ -10,6 +10,6 @@ This is a simple EMI Calculator App built using simple HTML, CSS and JavaScript.
 <img src="https://user-images.githubusercontent.com/81429137/142473666-34c4aacc-9e26-451b-9779-884fe4dd1c2c.png" width=400>
 <br>
 
-## Website Link: https://ujjwalshiva.github.io/emicalculator/
+## Website Link: https://ujjwalshiva.github.io/bunkcheck/
 
 ## 🌈 Have a Great Day!
