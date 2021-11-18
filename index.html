@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bunk Check</title>
+    <link rel="icon" href="favicon.png" type="image/x-icon"/>
+    <link rel="stylesheet" href="design.css">
+    <script src="script.js"></script>
+    <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+</head>
+<body>
+    <div class="container">
+        <h1>Bunk Check</h1>
+        <div class="grid-container">
+            <div class="grid-item"><h3>Total Conducted Classes</h3></div>
+            <div class="grid-item"><input type="number" id="total"></div>
+            <div class="grid-item"><h3>Total Attended Classes</h3></div>
+            <div class="grid-item"><input type="number" id="attended"></div>
+            <div class="grid-item"><h3>No. of classes to Bunk</h3></div>
+            <div class="grid-item"><input type="number" id="bunk"></div>
+        </div>
+        <div class="calculate">
+            <button onclick="calculate()"><h3>Calculate</h3></button>
+        </div>
+        <div class="finalval">
+            <h2 id="final"></h2>
+        </div>
+        
+    </div> 
+    <h4>Mini-Apps by <a href='https://ujjwalshiva.github.io'> Ujjwal Acharya </a> </h4>
+</body>
+</html>
