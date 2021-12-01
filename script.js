@@ -32,4 +32,7 @@ function calculate() {
         document.querySelector('#final').innerHTML=`Total Classes > Attended Classes`;
     }
     
-}
+    
+};
+
+setTimeout(() => {  alert("You can add this App to your Homescreen from Chrome Settings!");}, 10000);
